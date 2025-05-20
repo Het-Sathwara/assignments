@@ -244,3 +244,4 @@
 
 > **Note:** Complete all assignments in order to build a strong foundation in Python programming. Each assignment builds upon previous concepts and prepares you for more advanced topics.
 # Python-lessons
+# Python-lessons
